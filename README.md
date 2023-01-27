@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Grenon</h1>
 <h3 align="center">A passionate fullstack developer from Christchurch, NZ</h3>
 
-- 🔭 I’m currently working on [a redesign of PB Tech](http://github/ThreeClubs/pb-tech)
+- 🔭 I’m currently working on [a redesign of PB Tech](https://github.com/ThreeClubs/pb-tech)
 
 - 👨‍💻 All of my projects are available at [https://github/ThreeClubs](https://github/ThreeClubs)
 

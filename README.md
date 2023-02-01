@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Grenon</h1>
-<h3 align="center">A passionate fullstack developer from Christchurch, NZ</h3>
+<h3 align="center">A fullstack developer from Christchurch, NZ</h3>
 
 - 🔭 I’m currently working on [a redesign of PB Tech](https://github.com/ThreeClubs/pb-tech)
 
